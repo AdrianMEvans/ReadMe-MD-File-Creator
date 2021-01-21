@@ -1,0 +1,22 @@
+{
+  "name": "readme-md-file-creator",
+  "version": "1.0.0",
+  "description": "An Application to assist the user to easily generate a ReadMe.md file by completing a list of questions to complete a template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdrianMEvans/ReadMe-MD-File-Creator.git"
+  },
+  "author": "Adrian M Evans",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdrianMEvans/ReadMe-MD-File-Creator/issues"
+  },
+  "homepage": "https://github.com/AdrianMEvans/ReadMe-MD-File-Creator#readme",
+  "dependencies": {
+    "inquirer": "^7.3.3"
+  }
+}
