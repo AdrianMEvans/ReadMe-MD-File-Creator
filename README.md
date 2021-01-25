@@ -11,7 +11,7 @@ An application that assists the user to generate basic ReadMe.md file. It prompt
 The Screen recording showing the application being used can be downloaded to view by clicking **[here](https://github.com/AdrianMEvans/ReadMe-MD-File-Creator/blob/main/video/Screen%20Recording.mp4?raw=true)**
 
 ## Created Example
-Click [here](https://github.com/AdrianMEvans/ReadMe-MD-File-Creator/blob/main/NewReadMe.md)** to view a file created by using the Application. 
+Click **[here](https://github.com/AdrianMEvans/ReadMe-MD-File-Creator/blob/main/NewReadMe.md)** to view a file created by using the Application. 
 
 
 ## Credits :bellhop_bell: 
